@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MustufaDhanerawala
 - 👀 I’m interested in Data Scientist
 - 🌱 I’m currently learning Diploma in Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Data Scientist
 - 📫 How to reach me mustufa.dhanerawala91@gmail.com
 
 <!---
